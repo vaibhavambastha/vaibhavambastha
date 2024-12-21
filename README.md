@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav!
 👩🏻‍💻 Computer Engineering student studying at the University of British Columbia<br/>
-🤖 Part of the Software Subteam in UBC SailBot, a student-led engineering design team developing an autonomous sailboat<br/>
+🤖 Part of the Software Team in UBC SailBot, a student-led engineering design team developing an autonomous sailboat<br/>
 🌤️ Enjoy playing soccer and volleyball in spare time<br/>
 
 # 💻 Tech Stack
